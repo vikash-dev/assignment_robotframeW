@@ -10,5 +10,5 @@ TC2
     Set Selenium Implicit Wait    20s
     Click Element    //button[@id="truste-consent-button"]
     Click Element    //a[text()='Try Free']
-    Input Text    id:first-name    Jhon
-    Sleep    10s
+    Input Text    id:first-name    Jhoney
+    Sleep    15s

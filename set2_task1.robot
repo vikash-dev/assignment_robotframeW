@@ -9,12 +9,12 @@ TC1
 TC2
     Set Browser Implicit Wait    20s
     Input Text    //input[@name='UserFirstName']    John
-    Input Text    //input[@name='UserLastName']    wick
+    Input Text    //input[@name='UserLastName']    wick S
     Input Text    //input[@name='UserEmail']    john@gmail.com
-    Input Text    //input[@name='CompanyName']    Jhony Walker
+    Input Text    //input[@name='CompanyName']    Jhony Walker J
     Select From List By Value    //select[@name='UserTitle']    IT_Manager_AP
     Select From List By Label    //select[@name='CompanyEmployees']    101 - 500 employees
     Select From List By Value    //select[@name='CompanyCountry']    GB
     Click Element    //div[@class="checkbox-ui"][1]
     Click Element    //button[@type="submit"]
-    Sleep    10s
+    Sleep    15s

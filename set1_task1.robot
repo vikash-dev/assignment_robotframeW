@@ -10,8 +10,8 @@ TC2
     Set Browser Implicit Wait    20s
     Click Element    //b[contains(text(),"phpMyAdmin")]
     Switch Window    NEW
-    Input Text    id:input_username    db123
-    Input Password    id:input_password    test123
+    Input Text    id:input_username    db123sd
+    Input Password    id:input_password    test123fg
     Click Element    id:input_go
-    Sleep    20s
+    Sleep    15s
 
