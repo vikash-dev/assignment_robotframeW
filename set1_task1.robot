@@ -13,5 +13,5 @@ TC2
     Input Text    id:input_username    db123
     Input Password    id:input_password    test123
     Click Element    id:input_go
-    Sleep    10s
+    Sleep    20s
 

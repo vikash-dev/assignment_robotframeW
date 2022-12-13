@@ -11,4 +11,4 @@ TC2
     Click Element    //button[@id="truste-consent-button"]
     Click Element    //a[text()='Try Free']
     Input Text    id:first-name    Jhon
-    Sleep    20s
+    Sleep    10s

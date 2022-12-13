@@ -17,4 +17,4 @@ TC2
     Select From List By Value    //select[@name='CompanyCountry']    GB
     Click Element    //div[@class="checkbox-ui"][1]
     Click Element    //button[@type="submit"]
-    Sleep    20s
+    Sleep    10s
